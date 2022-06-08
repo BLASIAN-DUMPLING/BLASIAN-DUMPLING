@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BLASIAN-DUMPLING
+- 👋 Hi, I’m Christina R. Joseph
 - 👀 I’m interested in traveling
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on projects to build an outstanding portfolio for the future job hunt
