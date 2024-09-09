@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christina R. Joseph
 - 👀 I’m interested in traveling
-- 🌱 I’m currently enhancing my coding skills
+- 🌱 I’m currently enhancing my coding skills despite working as a backend applications development engineer
 - 💞️ I’m looking to collaborate on projects to build an outstanding portfolio for the future job hunt
 - 📫 How to reach me at crjoseph1275@gmail.com
 
